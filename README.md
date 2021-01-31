@@ -1,6 +1,9 @@
 # academic
 
-A new Flutter project.
+### Academic Book Latest Technology Learning Process UI/UX Design
+
+![Academic](https://user-images.githubusercontent.com/70564915/106376149-5b30f700-63b8-11eb-8453-a9c76a1fcf91.jpg)
+
 
 ## Getting Started
 
